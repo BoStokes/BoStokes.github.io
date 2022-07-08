@@ -1,0 +1,5 @@
+(base) ]0;~/Project/github_sites/Bo[01;34m~/Project/github_sites/Bo[00m$ git init
+Initialized empty Git repository in /projects/39b268b1-0e75-4ebd-9cf2-691243b37f4a/Project/github_sites/Bo/.git/
+(base) ]0;~/Project/github_sites/Bo[01;34m~/Project/github_sites/Bo[00m$ touch README.md
+(base) ]0;~/Project/github_sites/Bo[01;34m~/Project/github_sites/Bo[00m$ echo 'seom[K[K[Kome message' > README.md
+(base) ]0;~/Project/github_sites/Bo[01;34m~/Project/github_sites/Bo[00m$ cat[K[K[Kgit add -A[K[K[K[K[K[K
